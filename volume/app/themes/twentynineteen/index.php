@@ -15,6 +15,7 @@
  */
 
 get_header();
+echo phpinfo();
 ?>
 
 	<section id="primary" class="content-area">
